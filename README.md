@@ -74,7 +74,9 @@ Cerberus is a powerful and intuitive network vulnerability scanner built with Py
 ## Usage
 
 To start the Cerberus scanner, run the `main.py` file:
-#CerberusScanner #VulnerabilityScanner #NetworkSecurity #Python #Textual #Cybersecurity #PortScanning #CVE #TUI #InfoSec
+
 
 ```bash
 python main.py
+```
+#CerberusScanner #VulnerabilityScanner #NetworkSecurity #Python #Textual #Cybersecurity #PortScanning #CVE #TUI #InfoSec
