@@ -1,0 +1,32 @@
+{
+  "vsFTPd 2.3.4": {
+    "cve": "CVE-2011-2523",
+    "severity": "CRITICAL",
+    "details": "Выполнение произвольного кода через бэкдор в vsFTPd."
+  },
+  "ProFTPD 1.3.5": {
+    "cve": "CVE-2015-3306",
+    "severity": "HIGH",
+    "details": "Уязвимость 'mod_copy' позволяет копировать файлы на сервере."
+  },
+  "OpenSSH 7.7": {
+    "cve": "CVE-2018-15473",
+    "severity": "MEDIUM",
+    "details": "Перечисление пользователей (User Enumeration)."
+  },
+  "Apache/2.4.29": {
+    "cve": "CVE-2017-15715",
+    "severity": "HIGH",
+    "details": "Обход ограничений доступа к файлам через директиву <Files>."
+  },
+  "Microsoft-IIS/7.5": {
+    "cve": "CVE-2017-7269",
+    "severity": "CRITICAL",
+    "details": "Переполнение буфера в WebDAV (RCE)."
+  },
+  "nginx/1.18.0": {
+    "cve": "CVE-2021-23017",
+    "severity": "MEDIUM",
+    "details": "Уязвимость в обработке DNS-ответов может привести к утечке памяти."
+  }
+}
