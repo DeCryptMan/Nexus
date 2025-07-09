@@ -17,10 +17,10 @@ Cerberus is a powerful and intuitive network vulnerability scanner built with Py
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/DeCryptMan/Cerberus.git](https://github.com/DeCryptMan/Cerberus.git)
-    cd Cerberus
+    git clone https://github.com/DeCryptMan/Nexus.git
+    cd Nexus
     ```
-    *(Note: The actual repository URL might differ if this is not an existing public repository.)*
+
 
 2.  **Create a virtual environment** (recommended):
     ```bash
@@ -74,6 +74,7 @@ Cerberus is a powerful and intuitive network vulnerability scanner built with Py
 ## Usage
 
 To start the Cerberus scanner, run the `main.py` file:
+#CerberusScanner #VulnerabilityScanner #NetworkSecurity #Python #Textual #Cybersecurity #PortScanning #CVE #TUI #InfoSec
 
 ```bash
 python main.py
